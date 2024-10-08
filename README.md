@@ -1,4 +1,4 @@
-# fluttertest
+# Uni1st is a application developer by me and my friends using flutter
 
 A new Flutter project.
 
